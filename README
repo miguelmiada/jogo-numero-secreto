@@ -1,0 +1,32 @@
+# 🎯 Número Secreto
+
+Um jogo simples e divertido onde o objetivo é adivinhar o número secreto gerado aleatoriamente pelo sistema.
+
+1. O sistema sorteia um número secreto dentro de um intervalo definido
+2. Você insere um palpite
+3. O jogo indica se o número secreto é **maior** ou **menor** que o seu palpite
+4. Continue tentando até acertar!
+
+
+## 🛠️ Tecnologias
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+## 📁 Estrutura do Projeto
+
+```
+numero-secreto/
+├── index.html
+├── style.css
+└── app.js
+```
+
+## ✨ Funcionalidades
+
+- Geração aleatória do número secreto
+- Dicas de maior ou menor a cada tentativa
+- Contador de tentativas
+- Opção de reiniciar o jogo
+
